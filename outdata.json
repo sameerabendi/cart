@@ -1,0 +1,14 @@
+
+{
+	"mobiles":[
+
+{"name":"apple","cost":50000,"manufactured":"America","version":"android","id":"123"},
+{"name":"xolo","cost":40000,"manufactured":"china","version":"lollipop","id":"123"},
+{"name":"samsung","cost":70000,"manufactured":"australia","version":"lollipop","id":"123"},
+{"name":"appo","cost":80000,"manufactured":"japan","version":"android","id":"123"},
+{"name":"micromax","cost":250000,"manufactured":"singapore","version":"android","id":"123"}
+
+
+
+]
+}

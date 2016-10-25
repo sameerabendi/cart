@@ -1,0 +1,25 @@
+.nav
+{
+
+	background-color: red;
+	
+}
+.nav-bar
+{
+
+	color:white;
+}
+
+.text
+{
+    background-color: #545252;
+	padding: 10px;
+	color: white;
+
+}
+
+.textbox
+{
+	width:70%;
+	margin-left: 10px;
+}
